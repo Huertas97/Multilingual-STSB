@@ -4,7 +4,7 @@ As mentioned in the paper we have combined the pair-sentences from different lan
 
 ### Data fields
 
-Take a look to this random sample data from Version 1 (v1)
+Take a look to this random sample data from Version 1 (v3)
 
 |      | task   | stsb_test_1_lang1                                                                                                                  | stsb_test_2_lang2                                                                                                                         |   score_lang2 |
 |-----:|:-------|:-----------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|--------------:|
