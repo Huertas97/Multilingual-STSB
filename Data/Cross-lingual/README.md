@@ -6,6 +6,7 @@ As mentioned in the paper we have combined the pair-sentences from different lan
 
 
 ### Versions explanations
-
-* Version 1 (v1) --> Multilingual STS Benchmark test split with the 31 crosslingual tasks. Monolingual tasks --> ar;ar en;en ...
-Cross-lingual tasks have always English as first language --> en;es en;fr ...
+All these versions include the 15 monolingual tasks (e.g., en;en, es;es, de;de).  
+* Version 1 (v1): Multilingual STS Benchmark test split with  31 - 15 = 16 crosslingual tasks. Cross-lingual tasks have always English as first language (i.e., EN;lang)
+* Version 2 (v2): Multilingual STS Benchmark test split with  45 - 15 = 30 crosslingual tasks. This v2 is composed of monolingual, EN;lang and lang;EN tasks. 
+* Version 3 (v3): Multilingual STS Benchmark test split with  120 - 15 = 105 crosslingual tasks. This v3 is composed of all the possible combination between languages (lang;lang). 
