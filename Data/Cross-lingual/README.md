@@ -13,7 +13,7 @@ Take a look to this random sample data from Version 3 (v3)
 | 1055 | ja;ar  | BlueCore3-Multimediaには、ステレオオーディオ用のデュアルADCおよびDACを備えた16ビットステレオオーディオコーデックが含まれています。 | يحتوي BlueCore3-Multimedia على منصة DSP مفتوحة للمعالج المشترك ويتضمن أيضًا برنامج ترميز صوتي استريو 16 بت مع ADC و DAC مزدوج لصوت ستيريو. |          0.72 |
 
 ### Versions explanations
-All these versions include the 15 monolingual tasks (e.g., en;en, es;es, de;de).  
-* Version 1 (v1): Multilingual STS Benchmark test split with  31 - 15 = 16 crosslingual tasks. Cross-lingual tasks have always English as first language (i.e., EN;lang)
-* Version 2 (v2): Multilingual STS Benchmark test split with  45 - 15 = 30 crosslingual tasks. This v2 is composed of monolingual, EN;lang and lang;EN tasks. 
-* Version 3 (v3): Multilingual STS Benchmark test split with  240 - 15 = 225 crosslingual tasks. This v3 is composed of all the possible PERMUTATIONS between languages (lang;lang). 
+All these versions include the 16 monolingual tasks (e.g., en;en, es;es, de;de).  
+* Version 1 (v1): Multilingual STS Benchmark test split with  31 - 16 = 15 crosslingual tasks. Cross-lingual tasks have always English as first language (i.e., EN;lang)
+* Version 2 (v2): Multilingual STS Benchmark test split with  46 - 16 = 30 crosslingual tasks. This v2 is composed of monolingual, EN;lang and lang;EN tasks. 
+* Version 3 (v3): Multilingual STS Benchmark test split with  240 - 16 = 224 crosslingual tasks. This v3 is composed of all the possible PERMUTATIONS between languages (lang;lang). 
