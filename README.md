@@ -8,6 +8,34 @@ The original STS Benchmark [[1]](#1) consists of train-dev-test splits of 5749, 
 
 The data is splitted into train, dev and test sets at "Data" folder in pickle files. You can easily load the data using `read_pickle()` function from `pandas`. 
 
+# Citation
+In case you use the dataset please refer to this article:
+
+````
+@InProceedings{10.1007/978-3-030-91608-4_31,
+author="Huertas-Garc{\'i}a, {\'A}lvaro
+and Huertas-Tato, Javier
+and Mart{\'i}n, Alejandro
+and Camacho, David",
+editor="Yin, Hujun
+and Camacho, David
+and Tino, Peter
+and Allmendinger, Richard
+and Tall{\'o}n-Ballesteros, Antonio J.
+and Tang, Ke
+and Cho, Sung-Bae
+and Novais, Paulo
+and Nascimento, Susana",
+title="Countering Misinformation Through Semantic-Aware Multilingual Models",
+booktitle="Intelligent Data Engineering and Automated Learning -- IDEAL 2021",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="312--323",
+isbn="978-3-030-91608-4"
+}
+````
+
 # References
 <a id="1">[1]</a> 
 Cer, Daniel, Diab, Mona, Agirre, Eneko, Lopez-Gazpio, Iñigo, & Specia, Lucia. (2017). SemEval-2017 Task 1: Semantic Textual Similarity - Multilingual and Cross-lingual Focused Evaluation. https://doi.org/10.18653/v1/S17-2001
